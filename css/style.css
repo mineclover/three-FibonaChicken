@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .result-section{
   display: flex;
   flex-direction: column;
@@ -49,7 +48,6 @@
 }
 .result-section .image-box img {
 }
-=======
 body {
   font-family: 'Nanum Gothic', sans-serif;
 }
@@ -79,4 +77,3 @@ footer .btn {
   background-color: #03a9f4;
 }
 
->>>>>>> d4d5dfea98d8898717dae86c866d1b66df356784
