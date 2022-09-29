@@ -69,6 +69,44 @@ nav .title {
       padding: 15px;
 }
 
+main .people article {
+  padding: 20px;
+}
+
+main .people article .people-title {
+  font-size: 18px;
+  margin: 10px;
+}
+
+main .people article img {
+  max-width: 500px;
+  margin-top: 20px;
+}
+
+main .people article .people-number {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+}
+
+main .people article .people-number input {
+  box-sizing: border-box;
+  margin: 10px;
+  width: 100px;
+  height: 50px;
+  border: none;
+  outline: none;
+  font-size: 32px;
+  border-bottom: 3px solid #5264ae;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
 footer .fibona-chicken {
   font-weight: 300px;
 }
