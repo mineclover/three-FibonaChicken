@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .result-section{
   display: flex;
   flex-direction: column;
@@ -48,3 +49,34 @@
 }
 .result-section .image-box img {
 }
+=======
+body {
+  font-family: 'Nanum Gothic', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  font-size: 24px;
+  padding: 15px;
+  background-color: #5264ae;
+}
+
+nav .title {
+      padding: 15px;
+}
+
+footer .fibona-chicken {
+  font-weight: 300px;
+}
+
+footer .btn {
+  background-color: #03a9f4;
+}
+
+>>>>>>> d4d5dfea98d8898717dae86c866d1b66df356784
